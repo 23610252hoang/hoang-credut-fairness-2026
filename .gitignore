@@ -1,0 +1,30 @@
+
+```
+# Virtual Environment
+venv/
+env/
+
+# Data files
+data/
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Results (large files)
+*.pkl
+*.h5
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+.idea/
