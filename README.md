@@ -325,7 +325,7 @@ XGBClassifier(n_estimators=100, max_depth=6, learning_rate=0.1, random_state=42)
 ## 📧 連絡先
 
 **Hoang Nguyen**  
-- Email: [your-email@university.ac.jp]
+- Email: [23610252kn@stu,yamato-u.ac.jp]
 - GitHub: [@23610252hoang](https://github.com/23610252hoang)
 - Notion: [Project Page](https://www.notion.so/NGUYEN-1-2f6b4a64902080f3a982e5cbe03d5228)
 
