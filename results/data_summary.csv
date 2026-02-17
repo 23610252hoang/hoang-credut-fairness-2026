@@ -1,0 +1,2 @@
+total_samples,total_features,age_young,age_old,sex_male,sex_female,target_good,target_bad
+1000,22,0,0,0,0,700,300
